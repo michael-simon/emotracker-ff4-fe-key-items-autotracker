@@ -1,0 +1,13 @@
+﻿{
+  "name": "FFIV Free Enterprise Randomizer - Key Items Only",
+  "game_name": "FFIV Free Enterprise Randomizer",
+  "platform": "snes",
+  "package_version": "1.1.0.0",
+  "package_uid": "ffiv_fe_key_items_mechalink",
+  "author": "Mechalink",
+  "variants": {
+    "standard": {
+      "display_name": "Key Items"
+    }
+  }
+}

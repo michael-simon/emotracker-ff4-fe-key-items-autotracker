@@ -1,0 +1,174 @@
+﻿[
+  // Adamant
+  {
+    "name": "adamant",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/adamant.png", "codes": "adamant"},
+    	{ "img": "images/adamant-used.png", "codes": "adamant-used"}
+    ],
+  },
+  
+  // Baron Key
+  {
+    "name": "baron",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/baronkey.png", "codes": "baron"},
+    	{ "img": "images/baronkey-used.png", "codes": "baron-used"}
+    ],
+  },
+  
+  // Crystal
+  {
+    "name": "crystal",
+    "type": "toggle",
+    "img": "images/crystal.png", 
+    "codes": "crystal"
+  },
+  
+  // Darkness Crystal
+  {
+    "name": "darkness",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/darkness.png", "codes": "darkness"},
+    	{ "img": "images/darkness-used.png", "codes": "darkness-used"}
+    ],
+  },
+  
+  // Earth Crystal
+  {
+    "name": "earth",
+   "type": "progressive",
+    "stages": [
+    	{ "img": "images/earth.png", "codes": "earth"},
+    	{ "img": "images/earth-used.png", "codes": "earth-used"}
+    ],
+  },
+  
+  // Twin Harp
+  {
+    "name": "harp",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/harp.png", "codes": "harp"},
+    	{ "img": "images/harp-used.png", "codes": "harp-used"}
+    ],
+  },
+  
+  // Hook
+  {
+    "name": "hook",
+    "type": "toggle",
+    "img": "images/hook.png",
+    "codes": "hook"
+  },
+  
+  // Legend Sword
+  {
+    "name": "legend",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/legend.png", "codes": "legend"},
+    	{ "img": "images/legend-used.png", "codes": "legend-used"}
+    ],
+  },
+  
+  // Luca Key
+  {
+    "name": "luca",
+     "type": "progressive",
+    "stages": [
+    	{ "img": "images/lucakey.png", "codes": "luca"},
+    	{ "img": "images/lucakey-used.png", "codes": "luca-used"}
+    ],
+  },
+  
+  // Magma Key
+  {
+    "name": "magma",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/magmakey.png", "codes": "magma"},
+    	{ "img": "images/magmakey-used.png", "codes": "magma-used"}
+    ],
+  },
+  
+  // Package
+  {
+    "name": "package",
+   "type": "progressive",
+    "stages": [
+    	{ "img": "images/package.png", "codes": "package"},
+    	{ "img": "images/package-used.png", "codes": "package-used"}
+    ],
+  },
+  
+  // Pan
+  {
+    "name": "pan",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/pan.png", "codes": "pan"},
+    	{ "img": "images/pan-used.png", "codes": "pan-used"}
+    ],
+  },
+  
+  // Pass
+  {
+    "name": "pass",
+    "type": "toggle",
+    "img": "images/pass.png",
+    "codes": "pass"
+  },
+  
+  // Pink Tail
+  {
+    "name": "pink",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/pinktail.png", "codes": "pink"},
+    	{ "img": "images/pinktail-used.png", "codes": "pink-used"}
+    ],
+  },
+  
+  // Rat Tail
+  {
+    "name": "rat",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/rattail.png", "codes": "rat"},
+    	{ "img": "images/rattail-used.png", "codes": "rat-used"}
+    ],
+  },
+  
+  // Sand Ruby
+  {
+    "name": "sandruby",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/sandruby.png", "codes": "sandruby"},
+    	{ "img": "images/sandruby-used.png", "codes": "sandruby-used"}
+    ],
+  },
+  
+  // Spoon
+  {
+    "name": "spoon",
+    "type": "toggle",
+    "img": "images/spoon.png",
+    "codes": "spoon"
+  },
+  
+  // Tower Key
+  {
+    "name": "tower",
+    "type": "progressive",
+    "stages": [
+    	{ "img": "images/tower.png", "codes": "tower"},
+    	{ "img": "images/tower-used.png", "codes": "tower-used"}
+    ],
+  }
+ ] 
+  
